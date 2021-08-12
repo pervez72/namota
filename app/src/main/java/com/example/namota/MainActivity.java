@@ -46,7 +46,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
 
         if (value.isEmpty()){
-            Toast.makeText(this, "Please Enter ", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Please Enter Number ", Toast.LENGTH_SHORT).show();
         }
 
         else{
